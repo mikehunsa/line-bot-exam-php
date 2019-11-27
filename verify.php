@@ -1,5 +1,5 @@
 <?php
-$access_token = '3ALKAbKFoGuJyJnoDdn0HeyfbxLFtEXBKiC0lFeoNl/XbL4WhoCZzefp2n7UDuXaCWfErIDro07BnZNggJmXJChXTIlMPo8LRJ+n1LEgbRUaKehDkiCr5p5CakHrPX+gauOGX/R5bB2e5yi7xjnHDAdB04t89/1O/w1cDnyilFU=';
+$access_token = '/auOLIJRKIbz2a15y+bTzCQdmLs8RL4vwXO1+hqLCluPx7FZmJdQWFyMS59aa0ZnEI+I10FxzWPho9x0AoP/CJybvOrG3Ok/e9f0RIf4lIm7+qlkr8JbeJwrmSg9X1FepxhVE3Hv3rFfusvoQsCwsQdB04t89/1O/w1cDnyilFU=';
 
 
 $url = 'https://api.line.me/v1/oauth/verify';
